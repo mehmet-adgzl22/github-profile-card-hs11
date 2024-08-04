@@ -16,7 +16,7 @@
 </ul>
 
 # Proje Bağlantı Linki
-
+https://github-profile-card-hs11.netlify.app/
 
 # Github-Profile-Card-hs11 Proje Gifi
 ![profilcard](https://github.com/user-attachments/assets/d4cf5669-b086-41ae-854f-5c702bf071e1)
